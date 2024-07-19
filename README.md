@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerod Tabor</h1>
-<h3 align="center">An introvert that loves to talk from the United States</h3>
+<h3 align="center">An introvert that loves to talk, from the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartagous&label=Profile%20views&color=0e75b6&style=flat" alt="spartagous" /> </p>
 
